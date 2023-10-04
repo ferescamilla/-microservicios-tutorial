@@ -1,4 +1,4 @@
-serverspring:
+spring:
   application:
     name: carro-service
   cloud:
